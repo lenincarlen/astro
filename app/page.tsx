@@ -46,7 +46,7 @@ export default function Home() {
           priority
         />
       </div>
-      <div className="flex items-center justify-center ">
+      <div className="flex mx-auto items-center justify-center ">
       {/* <LoadingPercentage color="#FF5733" size="text-4xl" speed={30} /> */}
 
       <LoadingPercentage color="#a91e1e" size="text-4xl" speed={13} />
