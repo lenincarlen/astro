@@ -27,7 +27,7 @@ const LoadingPercentage: React.FC<LoadingPercentageProps> = ({
   }, [speed]);
 
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex mx-auto flex-col items-center justify-center">
       
       <p className={`${size} font-bold`} style={{ color }}>
         {progress}%
