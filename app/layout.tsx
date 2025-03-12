@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Astros Culture Inc.",
+  title: "Astros Culture",
   description: "Music",
 };
 
